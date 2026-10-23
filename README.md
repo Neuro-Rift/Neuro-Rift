@@ -6,7 +6,6 @@
 
 Building autonomous tooling for vulnerability discovery and security analysis.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Neuro--Rift-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Neuro-Rift)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7)](https://neuro-rift.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-0d1117?style=flat-square&logo=instagram&logoColor=E1306C)](https://www.instagram.com/neuro.rift.ai)
 
@@ -88,9 +87,8 @@ All security testing is performed within authorized scope and follows responsibl
 
 I am open to collaboration on security tooling, AI-driven research, and open-source projects.
 
-- GitHub: [@Neuro-Rift](https://github.com/Neuro-Rift)
-- Portfolio: [demonking369.netlify.app](https://demonking369.netlify.app)
-- Instagram: [@demonking369.0](https://www.instagram.com/demonking369.0)
+- Portfolio: [demonking369.netlify.app](https://neuro-rift.netlify.app)
+- Instagram: [@demonking369.0](https://www.instagram.com/neuro.rift.ai)
 
 <div align="center">
 
